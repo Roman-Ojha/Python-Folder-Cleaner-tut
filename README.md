@@ -1,0 +1,1 @@
+## Clean Current Directory folder/file and arrange structurally all the folder on there Associated Folder
